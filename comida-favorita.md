@@ -1,5 +1,6 @@
 | Comida | País | Aval |
-|---|---|---|
-| kain fan | China | Chenqi |
-| el escud | Guinea | Leo |
+|-  -  - |- - - |- - - |
+| kaifan | China | Chenqi |
+| esuc | Guinea | Leo |
 | cocido | España | Mario |
+
