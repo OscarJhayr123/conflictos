@@ -1,0 +1,3 @@
+- Kain fan — China
+- El escud — Guinea
+- Cocido — España
