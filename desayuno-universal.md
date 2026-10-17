@@ -1,1 +1,2 @@
-Desayuno elegido: pendiente
+- Desayuno de Alexander: Pan con chicharron
+- Desayuno de Dani: Pa amb
